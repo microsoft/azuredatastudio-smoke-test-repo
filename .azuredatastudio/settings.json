@@ -1,4 +1,7 @@
 {
 	"workbench.enablePreviewFeatures": true,
-	"workbench.showConnectDialogOnStartup": false
+	"workbench.showConnectDialogOnStartup": false,
+    "azdata.install": "dontPrompt",
+    "azdata.update": "dontPrompt",
+    "azdata.acceptEula": "dontPrompt"
 }
