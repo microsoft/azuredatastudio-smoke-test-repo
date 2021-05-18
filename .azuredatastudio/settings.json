@@ -3,5 +3,6 @@
 	"workbench.showConnectDialogOnStartup": false,
     "azdata.install": "dontPrompt",
     "azdata.update": "dontPrompt",
-    "azdata.acceptEula": "dontPrompt"
+    "azdata.acceptEula": "dontPrompt",
+	"sqlDatabaseProjects.netCoreDoNotAsk": true
 }
