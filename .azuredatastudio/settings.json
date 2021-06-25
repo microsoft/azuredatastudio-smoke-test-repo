@@ -4,5 +4,6 @@
     "azdata.install": "dontPrompt",
     "azdata.update": "dontPrompt",
     "azdata.acceptEula": "dontPrompt",
+    "notebook.jupyterServerShutdownTimeout": 0,
     "sqlDatabaseProjects.netCoreDoNotAsk": true
 }
