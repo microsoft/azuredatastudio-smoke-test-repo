@@ -1,9 +1,9 @@
 {
     "workbench.enablePreviewFeatures": true,
     "workbench.showConnectDialogOnStartup": false,
-    "azdata.install": "dontPrompt",
-    "azdata.update": "dontPrompt",
-    "azdata.acceptEula": "dontPrompt",
+    "azcli.arcdataInstall": "dontPrompt",
+    "azcli.azInstall": "dontPrompt",
+    "azcli.arcdataUpdate": "dontPrompt",
     "notebook.jupyterServerShutdownTimeout": 0,
     "sqlDatabaseProjects.netCoreDoNotAsk": true
 }
